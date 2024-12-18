@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BarberAppAppointment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">click to login</string>
+    <string name="click_to_register">click here to register</string>
+    <string name="logout">Logout</string>
+    <string-array name="genre_names">
+        <item>Indie</item>
+        <item>Adventure</item>
+        <item>RPG</item>
+        <item>Simulation</item>
+        <item>Puzzle</item>
+        <item>Arcade</item>
+        <item>Platformer</item>
+        <item>Racing</item>
+        <item>Sports</item>
+    </string-array>
+
+    <integer-array name="genre_ids">
+        <item>51</item>
+        <item>3</item>
+        <item>5</item>
+        <item>14</item>
+        <item>7</item>
+        <item>11</item>
+        <item>83</item>
+        <item>1</item>
+        <item>15</item>
+    </integer-array>
+</resources>

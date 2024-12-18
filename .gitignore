@@ -1,0 +1,57 @@
+# API keys and secrets
+apikey.properties
+!apikey.properties.example
+
+# Firebase
+google-services.json
+**/google-services.json
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+
+# Keystore files
+*.jks
+*.keystore
+debug.keystore
+release.keystore
+*.properties
+!gradle.properties
+!apikey.properties.example
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Generated files
+bin/
+gen/
+out/
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Cache of project
+.gradletasknamecache
