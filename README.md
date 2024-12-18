@@ -1,6 +1,6 @@
-# VideoGamesApp
+# AppVideoGames
 
-VideoGamesApp is an Android application that helps users discover and track video games. The app integrates with the RAWG Video Games Database API to provide up-to-date information about games, including new releases, different genres, and detailed game information.
+this is an Android application that helps users discover and track video games. The app integrates with the RAWG Video Games Database API to provide up-to-date information about games, including new releases, different genres, and detailed game information.
 
 ## Demo
 
